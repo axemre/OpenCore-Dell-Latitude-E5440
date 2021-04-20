@@ -17,6 +17,7 @@ The following repo is just here for reference purposes. This configuration may b
 * WiFi: using itlwm on a AC-7260 card by Intel, kext not added in my EFI folder, you can easily replace the card with an fully working card in macOS.
 * USB: All USB 2.0 and 3.0 ports work flawlessly
 * Audio: Works with a small issue (see Bugs)
+* integrated microphone
 * Sleep
 * Ethernet
 * HDMI output
