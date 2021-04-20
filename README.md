@@ -14,8 +14,9 @@ The following repo is just here for reference purposes. This configuration may b
 ### Working:
 
 * Display: brightness, integrated graphics with acceleration
-* WiFi: using itlwm on a AC-7260 card by Intel, kext not added in my EFI folder, you can easily replace the card with an fully working card in macOS.
+* WiFi: using itlwm on a AC-7260 card by Intel, kext not added in my EFI folder, you can easily replace the card with an fully working card in macOS or add itlwm to your kexts and config.
 * USB: All USB 2.0 and 3.0 ports work flawlessly
+* Bluetooth: works with IntelBluetoothFirmware/Injector
 * Audio: Works with a small issue (see Bugs)
 * integrated microphone
 * Sleep
